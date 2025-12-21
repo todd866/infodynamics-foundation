@@ -26,7 +26,7 @@ where $\Delta I$ is information removed and $C_\Phi$ is the geometric contractio
 │   └── ipi_infodynamics_submission.pdf   # Manuscript
 ├── src/
 │   └── make_figures.py                   # Figure generation code
-└── archive/latex/figures/
+└── figures/
     ├── fig1_geometric_maintenance.pdf    # Schematic of the bound
     └── fig2_dimensional_relaxation.pdf   # Simulation results
 ```

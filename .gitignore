@@ -19,3 +19,4 @@ __pycache__/
 # Keep PDFs and figures
 !paper/*.pdf
 !archive/latex/figures/*.pdf
+archive/

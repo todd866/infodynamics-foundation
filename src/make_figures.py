@@ -12,7 +12,7 @@ class Paths:
 
     @property
     def figs_dir(self) -> Path:
-        return self.root / "archive" / "latex" / "figures"
+        return self.root / "figures"
 
 
 def ensure_matplotlib():
