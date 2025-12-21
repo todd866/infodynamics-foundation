@@ -216,11 +216,11 @@ def fig2_dimensional_relaxation(paths: Paths) -> None:
 
     # Annotations
     ax2.annotate("high $I_{\\mathrm{struct}}$\n(asymmetric)",
-                xy=(t[20], istruct_bits[20]), xytext=(0.003, istruct_bits.max()*0.5),
+                xy=(t[20], istruct_bits[20]), xytext=(0.02, istruct_bits.max()*0.75),
                 fontsize=9, ha="center",
                 arrowprops=dict(arrowstyle="->", color="#555", lw=1))
     ax2.annotate("$I_{\\mathrm{struct}} \\to 0$\n(symmetric)",
-                xy=(t[-30], istruct_bits[-30]), xytext=(30, 15),
+                xy=(t[-30], istruct_bits[-30]), xytext=(10, 8),
                 fontsize=9, ha="center",
                 arrowprops=dict(arrowstyle="->", color="#555", lw=1))
 
