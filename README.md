@@ -1,5 +1,7 @@
 # A Thermodynamic Foundation for the Second Law of Infodynamics
 
+> **Archived 2026-05-15** — This paper is Paper 1 of the [infodynamics-trilogy](https://github.com/todd866/infodynamics-trilogy); see that repo for the canonical version and the two companion papers in the series. This standalone repo is preserved for citation continuity.
+
 **Deriving Vopson's empirical law from stochastic thermodynamics.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
